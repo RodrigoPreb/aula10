@@ -1,0 +1,2 @@
+name mangling é quando voce bloqueia para ninguem acessar
+convenção de python quando com dois __ siginifica que ele é privado
